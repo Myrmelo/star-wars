@@ -1,0 +1,14 @@
+.movies-container {
+	width: 50%;
+}
+
+.form {
+	display: flex;
+	width: 100%;
+	margin: 1rem auto 1rem auto;
+	justify-content: center;
+}
+
+input {
+	margin-right: 1rem;
+}
